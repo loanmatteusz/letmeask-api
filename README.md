@@ -24,7 +24,7 @@ API desenvolvida durante a **NLW 20 da Rocketseat**, com o objetivo de criar sal
 1. **Clone o repositório**
 ```bash
     git clone https://github.com/loanmatteusz/letmeask-api.git
-    cd letmeask
+    cd letmeask-api
 ```
 
 2. **Suba o banco de dados com Docker**
