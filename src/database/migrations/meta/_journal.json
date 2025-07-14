@@ -15,6 +15,13 @@
       "when": 1752185902219,
       "tag": "0001_perpetual_forgotten_one",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752442244809,
+      "tag": "0002_workable_carnage",
+      "breakpoints": true
     }
   ]
 }
